@@ -6,4 +6,3 @@ class Shoe
   end 
 end 
 
-shoe.brand 
