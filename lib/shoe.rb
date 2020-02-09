@@ -10,5 +10,7 @@ class Shoe
   def color
     @color = "red"
   end 
+  
+  
 end 
 
